@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsAndArrays", "StringsAndArrays\StringsAndArrays.csproj", "{7D5824B4-7BD3-47C4-BD2A-C160A6170A61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\LinkedLists.csproj", "{F57CF875-635A-4691-B42E-ADF838DCC839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODesign", "OODesign\OODesign.csproj", "{8654CF43-DFAE-4C34-8DB5-58862A2B409F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7D5824B4-7BD3-47C4-BD2A-C160A6170A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5824B4-7BD3-47C4-BD2A-C160A6170A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5824B4-7BD3-47C4-BD2A-C160A6170A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57CF875-635A-4691-B42E-ADF838DCC839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57CF875-635A-4691-B42E-ADF838DCC839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57CF875-635A-4691-B42E-ADF838DCC839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57CF875-635A-4691-B42E-ADF838DCC839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
