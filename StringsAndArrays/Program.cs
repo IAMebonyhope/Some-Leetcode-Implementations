@@ -11,13 +11,20 @@ namespace StringsAndArrays
         static void Main(string[] args)
         {
 
-            int n = Convert.ToInt32(Console.ReadLine());
+            /*int n = Convert.ToInt32(Console.ReadLine());
 
             int[] c = Array.ConvertAll(Console.ReadLine().Split(' '), cTemp => Convert.ToInt32(cTemp));
 
             int result = 0;
 
-            Console.WriteLine(result);
+            Console.WriteLine(result);*/
+
+            string str = Console.ReadLine();
+
+            RunLengthEncoding rnl = new RunLengthEncoding();
+
+            Console.WriteLine(rnl.Compress(str));
+
 
             Console.ReadLine();
         }

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedLists", "LinkedLists\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODesign", "OODesign\OODesign.csproj", "{8654CF43-DFAE-4C34-8DB5-58862A2B409F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveTypes", "PrimitiveTypes\PrimitiveTypes.csproj", "{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8654CF43-DFAE-4C34-8DB5-58862A2B409F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

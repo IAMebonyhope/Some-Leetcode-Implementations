@@ -42,10 +42,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayHelperClass.cs" />
+    <Compile Include="DiagonalTraverse.cs" />
     <Compile Include="JumpingOnClouds.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepeatedString.cs" />
+    <Compile Include="RotateArray.cs" />
+    <Compile Include="RunLengthEncoding.cs" />
+    <Compile Include="StringCompression.cs" />
     <Compile Include="StringToIntegerAtoi.cs" />
   </ItemGroup>
   <ItemGroup>
