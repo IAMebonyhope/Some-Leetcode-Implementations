@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace StringsAndArrays
 {
+    //Site: LeetCode
+    //Category: Top Interview Questions
+    //Difficulty: Medium
     class DiagonalTraverse
     {
         public int[] FindDiagonalOrder(int[][] matrix)
