@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace StringsAndArrays
 {
+    //Site: LeetCode
+    //Category: Problems
+    //Difficulty: Easy
     class StringCompression
     {
         public int Compress(char[] chars)
