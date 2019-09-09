@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BitTricks.cs" />
     <Compile Include="CountPrimes.cs" />
     <Compile Include="MySqrt.cs" />
     <Compile Include="Program.cs" />
