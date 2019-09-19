@@ -46,13 +46,17 @@
     <Compile Include="DiagonalTraverse.cs" />
     <Compile Include="IsPalindrome.cs" />
     <Compile Include="JumpingOnClouds.cs" />
+    <Compile Include="PermutatingTwoArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepeatedString.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="RunLengthEncoding.cs" />
     <Compile Include="StringCompression.cs" />
+    <Compile Include="StringSubString.cs" />
     <Compile Include="StringToIntegerAtoi.cs" />
+    <Compile Include="ValidPalindrome.cs" />
+    <Compile Include="ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BitTricks.cs" />
     <Compile Include="CountPrimes.cs" />
+    <Compile Include="HappyNumbers.cs" />
     <Compile Include="MySqrt.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
