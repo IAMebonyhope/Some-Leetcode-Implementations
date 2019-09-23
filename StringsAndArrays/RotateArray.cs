@@ -18,6 +18,7 @@ namespace StringsAndArrays
             reverseArray(nums, 0, nums.Length - 1);
             reverseArray(nums, 0, k - 1);
             reverseArray(nums, k, nums.Length - 1);
+            
         }
 
         public void reverseArray(int[] nums, int start, int end)
