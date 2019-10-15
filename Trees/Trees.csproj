@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8654CF43-DFAE-4C34-8DB5-58862A2B409F}</ProjectGuid>
+    <ProjectGuid>{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OODesign</RootNamespace>
-    <AssemblyName>OODesign</AssemblyName>
+    <RootNamespace>Trees</RootNamespace>
+    <AssemblyName>Trees</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,9 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MinStack.cs" />
+    <Compile Include="IsValidBST.cs" />
+    <Compile Include="Traversal.cs" />
+    <Compile Include="Node.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

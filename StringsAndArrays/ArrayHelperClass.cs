@@ -8,6 +8,12 @@ namespace StringsAndArrays
 {
     public class ArrayHelperClass<T>
     {
+        public static void swapElements(T[] arr, int i, int j)
+        {
+            T temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+        }
         public static T[] copy1DArray(T[] copyFrom)
         {
             T[] copyTo = new T[copyFrom.Length];

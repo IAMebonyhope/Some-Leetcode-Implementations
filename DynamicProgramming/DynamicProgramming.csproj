@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8654CF43-DFAE-4C34-8DB5-58862A2B409F}</ProjectGuid>
+    <ProjectGuid>{AD7D3875-095A-4D0D-86AA-2C0344953EBD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>OODesign</RootNamespace>
-    <AssemblyName>OODesign</AssemblyName>
+    <RootNamespace>DynamicProgramming</RootNamespace>
+    <AssemblyName>DynamicProgramming</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MinStack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

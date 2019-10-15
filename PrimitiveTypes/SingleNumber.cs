@@ -8,7 +8,7 @@ namespace PrimitiveTypes
 {
     class SingleNumber
     {
-        public int SingleNumber(int[] nums)
+        public int singleNumber(int[] nums)
         {
 
             int result = nums[0];

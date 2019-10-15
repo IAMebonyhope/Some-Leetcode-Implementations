@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODesign", "OODesign\OODesi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimitiveTypes", "PrimitiveTypes\PrimitiveTypes.csproj", "{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementations", "Implementations\Implementations.csproj", "{0015580F-7F41-4F9F-95F2-F0976879AE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F4AFCC4-15F8-4DE9-ABB5-DEA94E333647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0015580F-7F41-4F9F-95F2-F0976879AE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0015580F-7F41-4F9F-95F2-F0976879AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0015580F-7F41-4F9F-95F2-F0976879AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0015580F-7F41-4F9F-95F2-F0976879AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D92DCF14-DA62-49DE-BF74-1CC73D18F60D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
