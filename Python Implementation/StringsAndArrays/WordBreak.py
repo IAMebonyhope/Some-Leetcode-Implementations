@@ -3,5 +3,8 @@
 Created on Fri Nov 15 11:17:40 2019
 
 @author: HP
+
+Site: Leetcode
+Category: Medium
 """
 
