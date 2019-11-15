@@ -15,4 +15,16 @@ namespace LinkedLists
             val = x;
         }
     }
+
+    public class DListNode
+    {
+        public int val;
+        public DListNode next;
+        public DListNode prev;
+        
+        public DListNode(int val)
+        {
+            this.val = val;
+        }
+    }
 }
