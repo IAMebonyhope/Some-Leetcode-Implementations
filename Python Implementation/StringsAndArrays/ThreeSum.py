@@ -3,6 +3,8 @@
 Created on Mon Nov 18 10:39:36 2019
 
 @author: HP
+Site: Leetcode
+Category: Medium
 """
 
 class Solution(object):
